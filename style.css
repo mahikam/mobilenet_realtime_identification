@@ -1,0 +1,44 @@
+  .heading
+  {
+    width: 100%;
+    margin: 0px;
+    box-shadow:5px 5px 5px rgb(88, 88, 88);
+  }
+  .heading_div
+  {
+    background: white ; 
+    border-radius: 20px; 
+    color: black;
+    box-shadow:10px 10px 10px rgb(39, 39, 39);
+    height: 150px;
+    width: 50%;
+    float:none;
+  }
+  .heading_div2
+  {
+    font-size: 18px ;
+  }
+  .result_para_tag
+  {
+    box-shadow:5px 5px 5px rgb(88, 88, 88);
+    font-size: 20px;
+    color: white;
+    border: 2px rgb(80, 79, 79) solid;
+    border-radius: 20px;
+    background-color: #48325c;
+  }
+  .copy_right_footer{
+    position: fixed;
+    bottom:0;
+    background: linear-gradient(to right,#433a4f,#403254,#503c6b,#5d4085,#6f5099,#8063a6,#8e74b3);
+    color:white;
+    width:100%;
+    font-size:18px;
+    line-height: 2;
+  }
+  canvas{
+    border: 2px black solid;
+    border-radius:5px;
+    margin-top:180px;
+  }
+ 
